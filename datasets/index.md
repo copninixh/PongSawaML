@@ -1,5 +1,5 @@
 ## Data annotations
-The data lable process, I decide to use multi-classes (18 classes) for making The Thai Annals Dataset for Name Entity Recognition Task.
+The data lable process, I decide to use multi-classes (17 classes) for making The Thai Annals Dataset for Name Entity Recognition Task.
 
 #### File formats
 - `Thai_annals.csv` (export as UTF-8) an orginal scrapped from Vachirayan Digtal Library
