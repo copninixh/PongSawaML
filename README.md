@@ -1,5 +1,8 @@
+# PongSawaML
+PongsawaM(L) is a Thai annal Ayutthaya, Thonburi, and Rattakosin (Rama I). This annal writed by Dan Beach Bradley an American Protestant missionary
+
 ## Data annotations
-The data lable process, I decide to use multi-classes (17 classes) for making The Thai Annals Dataset for Name Entity Recognition Task.
+The data lable process, I decide to use multi-classes (16 classes) for making The Thai Annals Dataset for Name Entity Recognition Task.
 
 #### File formats
 - `Thai_annals.csv` (export as UTF-8) an orginal scrapped from Vachirayan Digtal Library
@@ -23,7 +26,6 @@ The data lable process, I decide to use multi-classes (17 classes) for making Th
 | RITUAL           | พิธีทางศาสนา          |         |
 | DISEASE          | โรคระบาด              |         |
 | ROYAL_CEREMONY   | พระราชพิธี            |         |
-| PEOPLE           | กลุ่มคน               |         |
 | THAI_MEASUREMENT | การบอกระยะทางแบบไทย   |         |
 | THAI_DIRECTION   | การบอกทิศทางแบบไทย    |         |
 | BUDDHIST_ICONIC  | รูปเคารพทางศาสนา      |         |
