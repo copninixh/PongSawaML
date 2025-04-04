@@ -22,7 +22,7 @@ The data lable process, I decide to use multi-classes (16 classes) for making Th
 | PALACE_NAME      | ชื่อพระที่นั่ง,ตำหนัก        |         |
 | TEMPLE           | ชื่อวัด               |         |
 | NOBLEMAN         | ขุนนาง                |         |
-| ROYALTY          | เชื้อพระวงศ์          |         |
+| ROYALTY          | กษัตริย์และเชื้อพระวงศ์          |         |
 | RITUAL           | พิธีทางศาสนา          |         |
 | DISEASE          | โรคระบาด              |         |
 | ROYAL_CEREMONY   | พระราชพิธี            |         |
