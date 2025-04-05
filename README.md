@@ -22,7 +22,7 @@ For the data labeling process, I used multiple classes (16 classes) to create th
 | PALACE_NAME      | ชื่อพระที่นั่ง,ตำหนัก        |         |
 | TEMPLE           | ชื่อวัด               |         |
 | NOBLEMAN         | ขุนนาง                |         |
-| ROYALTY          | ราชวงศ์     |         | รวมกษัตริย์เข้าไปด้วย |
+| ROYALTY          | ราชวงศ์              | รวมกษัตริย์เข้าไปด้วย |
 | RITUAL           | พิธีทางศาสนา          |         |
 | DISEASE          | โรคระบาด              |         |
 | ROYAL_CEREMONY   | พระราชพิธี            |         |
