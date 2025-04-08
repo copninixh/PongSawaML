@@ -17,7 +17,7 @@ For the data labeling process, I used multiple classes (12 classes) to create th
 | CHULASAKARAJ   | จุลศักราช           |                  | 55    |
 | ZODIAC         | ปีนักษัตร            |                  | 53    |
 | THAI_DATE      | การบอกวันแบบไทย    |                  | 8     |
-| THAI_TIME      | การบอกเวลาแบบไทย  |                  | 7     |
+| THAI_TIME      | การบอกเวลาแบบไทย  |                  | 8     |
 | CITY           | เมือง              |                  | 67    |
 | PLACE          | ชื่อพระที่นั่ง,ตำหนัก,วัด |                  | 27    |
 | NOBLEMAN       | ขุนนาง             |                  | 38    |
